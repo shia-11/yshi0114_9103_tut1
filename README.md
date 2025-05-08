@@ -1,3 +1,5 @@
+Quiz 8
+
 ### Part 1
 
 I was inspired by Sol LeWitt’s wall drawings, where he wrote instructions for other artists to execute.  
@@ -28,4 +30,7 @@ By experimenting with it, we can achieve the desired variations and effects.
 ### 🔗 Example Code Reference
 
 [Random Poetry with Arrays – p5.js Example](https://p5js.org/examples/listing-data-with-arrays-random-poetry/)
+
+
+Quiz 8
 
